@@ -1,0 +1,37 @@
+body{
+    border: 10px solid black;
+}
+
+h1{
+    text-align: center;
+    background-color: black;
+    color: white;
+    font-size: 50px;
+}
+#contact{
+    text-align: center;
+}
+#con{
+    height: 10cm;
+    text-align: center;
+    background-color: lightblue;
+    font-size: 30px;
+    padding-top: 1cm;
+}
+#details{
+    text-align: center;
+}
+#about{
+    font-size: 5%;
+}
+img{
+            margin-top: 25px ;
+            margin-left: 40%;
+            border: 3px solid black;
+         }
+#one{
+    text-align: center;
+}
+nav{
+    text-align: center;
+}
